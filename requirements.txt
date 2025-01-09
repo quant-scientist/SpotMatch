@@ -1,0 +1,8 @@
+torch>=1.9.0
+torchvision>=0.10.0
+numpy>=1.21.0
+opencv-python>=4.5.3.56
+pandas>=1.3.0  # Required for YOLOv5's utilities
+matplotlib>=3.4.2  # Optional, for YOLOv5 visualizations
+PyYAML>=5.3.1  # Required for YOLOv5 configurations
+seaborn>=0.11.1  # Optional, for plotting in YOLOv5
